@@ -2,7 +2,7 @@
 
 ## Use from Vue application
 ```
-npm install vue-model
+npm install --save https://github.com/taras-m0/vue-model.git  OR yarn add -D https://github.com/taras-m0/vue-model.git
 ```
 
 create MyModel.js
